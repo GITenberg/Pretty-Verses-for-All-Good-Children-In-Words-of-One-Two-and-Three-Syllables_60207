@@ -1,0 +1,26 @@
+_repo: Pretty-Verses-for-All-Good-Children-In-Words-of-One-Two-and-Three-Syllables_60207
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cobb, Lyman
+    birthdate: 1800
+    deathdate: 1864
+    gutenberg_agent_id: '50843'
+    url: http://www.gutenberg.org/2009/agents/50843
+    wikipedia: https://en.wikipedia.org/wiki/Lyman_Cobb
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Readers (Elementary)'
+- !lcsh 'Children''s poetry'
+- GITenberg
+title: 'Pretty Verses for All Good Children: In Words of One, Two, and Three Syllables'
+url: http://www.gutenberg.org/ebooks/60207
